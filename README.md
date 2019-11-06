@@ -15,7 +15,7 @@ Introductory lesson for html
 <body>
 
 <h1>My First Heading</h1>
-<p>My first paragraph. <a href="https://www.kewforest.org">This is a linkto KF.</a></p>
+<p>My first paragraph. <a href="https://www.kewforest.org">This is a link to KF.</a></p>
 
 </body>
 </html>
